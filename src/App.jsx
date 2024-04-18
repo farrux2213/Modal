@@ -12,7 +12,7 @@ class App extends Component {
 
   render() {
     return (
-      <div className="style_wrapper">
+      <div className="stylewrapper">
         <Modal
           onCancel={() => {
             this.setState({ modalShow: false });
