@@ -9,5 +9,5 @@ body {
   align-items: center;
   margin: auto;
   flex-direction: column;
-  border: 1px solid olivedrab;
+  /* border: 1px solid olivedrab; */
 }
